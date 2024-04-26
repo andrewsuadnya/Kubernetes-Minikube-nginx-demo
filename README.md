@@ -1,1 +1,1 @@
-# Kubernetes-Minikube-Simple-Web-App
+# Kubernetes-Minikube-nginx-demo
